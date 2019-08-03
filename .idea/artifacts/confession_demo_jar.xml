@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="confession-demo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/confession_demo_jar</output-path>
+    <root id="archive" name="confession-demo.jar">
+      <element id="module-output" name="confession-demo" />
+    </root>
+  </artifact>
+</component>
